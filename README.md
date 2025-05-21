@@ -2,7 +2,7 @@
 
 Upgrade your Bloxburg grind with **Meowburg OP Script**, a clean and efficient **keyless** automation suite. With support for farming, building, skill training, and mood management, this script helps you grow your house and your stats—all while staying AFK.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/U-ziii/Welcome-To-Bloxburg-Meowburg-Op-Script/blob/main/_Welcome%20to%20Bloxburg%20-%20Meowburg%20OP%20Script%20.png)
 
 ---
 
